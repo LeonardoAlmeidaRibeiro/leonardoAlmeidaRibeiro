@@ -1,4 +1,4 @@
-# 👨‍💻 Leonardo Almeida
+# 👨‍💻 Leonardo Almeida Ribeiro
 
 ## 🚀 Sobre mim
 
