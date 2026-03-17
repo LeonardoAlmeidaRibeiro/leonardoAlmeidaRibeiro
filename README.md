@@ -9,7 +9,12 @@ Atuo como **Gestor de Projetos de TI** e **Desenvolvedor Laravel Sênior**, com 
 Sou um profissional de Tecnologia da Informação com experiência no desenvolvimento, evolução e gestão de sistemas web, participando de todas as etapas do ciclo de software — desde o levantamento de requisitos até a implantação e sustentação em produção.
 
 ---
+Tecnologias
+Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo no meu dia a dia para desenvolver soluções eficientes e escaláveis. Ao longo da minha experiência, tive a oportunidade de aprofundar meus conhecimentos nessas ferramentas, aplicando-as em diferentes projetos e desafios.
 
+
+javascript logo  laravel logo  php logo  git logo  gitlab logo  github logo  visualstudio logo  linux logo  ubuntu logo  html5 logo  css3 logo  bootstrap logo  mysql logo  nodejs logo  jquery logo  flutter logo
+---
 ## 💼 Experiência Profissional
 
 ### 🏥 Hospital das Forças Armadas (HFA)
