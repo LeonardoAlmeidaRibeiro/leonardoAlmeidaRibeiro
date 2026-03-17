@@ -112,6 +112,16 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 ---
 
+## 🏆 Conquistas
+
+🥇 1º lugar no Hackathon da Mútua  
+🥇 1º lugar no Hackathon do Tesouro Nacional (Equipe Code Creators)  
+🥇 1º lugar no Hackathon de Tecnologias Disruptivas para Segurança Pública – Ministério da Justiça e Segurança Pública (MJSP)  
+🥉 3º lugar no Hackathon Gravitate Health  
+🌍 Nomeação global no NASA Space Apps Challenge (maior hackathon do mundo)
+
+---
+
 ## 🎯 Objetivo
 
 Desenvolver soluções tecnológicas **eficientes, seguras e escaláveis**, alinhadas aos objetivos do negócio, sempre buscando evolução contínua e melhoria de processos.
@@ -119,6 +129,31 @@ Desenvolver soluções tecnológicas **eficientes, seguras e escaláveis**, alin
 ---
 
 💡 *"Tecnologia não é só código, é resolver problemas de forma simples e eficiente."*
+
+---
+
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+</p>
+
+---
 
 <div align="center">
   <a href="https://github.com/leonardoAlmeidaRibeiro">
