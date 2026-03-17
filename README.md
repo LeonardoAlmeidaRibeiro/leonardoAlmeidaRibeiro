@@ -128,6 +128,6 @@ Desenvolver soluções tecnológicas **eficientes, seguras e escaláveis**, alin
 
 ---
 
-![Snake animation](https://github.com/leonardoAlmeidaRibeiro/leonardoAlmeidaRibeiro/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeonardoAlmeidaRibeiro/leonardoAlmeidaRibeiro/blob/output/github-contribution-grid-snake.svg)
 
 
