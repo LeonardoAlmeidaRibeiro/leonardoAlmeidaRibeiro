@@ -88,8 +88,7 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 * **Back-end:** PHP, Laravel
 * **Front-end:** HTML, CSS, JavaScript, jQuery, Bootstrap
-* **Mobile:** Flutter
-* **Banco de Dados:** MySQL
+* **Banco de Dados:** MySQL, MariaDB
 * **Integrações:** REST, SOAP
 * **Ferramentas:** Git, GitLab, Postman, VS Code
 * **Outros:**
