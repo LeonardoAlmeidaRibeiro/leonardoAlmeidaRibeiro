@@ -82,8 +82,6 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 ---
 
-## 🛠️ Tecnologias & Competências
-
 ## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento & Frameworks
