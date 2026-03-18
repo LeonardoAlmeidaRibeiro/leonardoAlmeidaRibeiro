@@ -5,8 +5,6 @@
   <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=leonardoAlmeidaRibeiro&color=blue" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/leonardoAlmeidaRibeiro?label=Followers&style=social" alt="GitHub followers"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophies" />
-
 </div>
 
 ## 🚀 Sobre mim
