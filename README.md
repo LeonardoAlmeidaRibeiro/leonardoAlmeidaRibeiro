@@ -155,9 +155,6 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 💡 *"Tecnologia não é só código, é resolver problemas de forma simples e eficiente."*
 
 ---
-
-
----
 ## 📊 Estatísticas e Conquistas
 
 <div align="center">
