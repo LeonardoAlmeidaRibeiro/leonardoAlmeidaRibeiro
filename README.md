@@ -149,38 +149,7 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 
 ---
 
-## 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-</p>
-
----
-
-<div align="center">
-  <a href="https://github.com/leonardoAlmeidaRibeiro">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
----
-
+<!-- Cards principais (uma vez) -->
 <div align="center">
   <a href="https://github.com/leonardoAlmeidaRibeiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -188,10 +157,21 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
   </a>
 </div>
 
+<!-- Contador de visitas (sutil) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonardoAlmeidaRibeiro&color=ff69b4&style=flat-square&label=👥+Visualizações"/>
+</p>
+
+<!-- Streak e Gráfico -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=dracula" height="180em"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
+</div>
+
+<!-- Troféus (opcional, mas fica show!) -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&no-frame=true&row=2&column=4"/>
 </div>
