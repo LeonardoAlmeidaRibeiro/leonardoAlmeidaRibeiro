@@ -165,11 +165,11 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=default" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=default&hide_border=true" height="180em"/>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=github-light"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=github-compact"/>
 </div>
 
 ---
