@@ -157,16 +157,12 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 ---
 ## 📊 Estatísticas e Conquistas
 
+
 <div align="center">
-
   <a href="https://github.com/leonardoAlmeidaRibeiro">
-
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula" />
-
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
   </a>
-
 </div>
 
 <div align="center">
