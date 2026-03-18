@@ -149,27 +149,49 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 
 ---
 
-## 📊 Estatísticas e Conquistas
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophies" />
+
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=leonardoAlmeidaRibeiro&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/leonardoAlmeidaRibeiro?label=Followers&style=social" alt="GitHub followers"/>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <a href="https://github.com/leonardoAlmeidaRibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
+
+  <!-- Stats principais -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula"/>
+
 </div>
 
+---
+
 <div align="center">
+
+  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=dracula" height="180em"/>
+
 </div>
 
+---
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
+
+</div>
+
+---
+
+<div align="center">
+
+  <!-- Trophies (diferencial forte) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
