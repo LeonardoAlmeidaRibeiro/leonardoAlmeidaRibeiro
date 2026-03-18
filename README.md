@@ -1,4 +1,13 @@
 # 👨‍💻 Leonardo Almeida Ribeiro  | Desenvolvedor Laravel | Arquiteto de Soluções | Gestor de Projetos de TI | Vencedor de Hackathons | Integração de Sistemas (SOAP/REST) 
+<br>
+<div align="left">
+
+  <!-- Badges -->
+  <img src="https://komarev.com/ghpvc/?username=leonardoAlmeidaRibeiro&color=blue" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/leonardoAlmeidaRibeiro?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophies" />
+
+</div>
 
 ## 🚀 Sobre mim
 
@@ -149,49 +158,23 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 
 ---
 
-<div align="center">
-
-  <!-- Badges -->
-  <img src="https://komarev.com/ghpvc/?username=leonardoAlmeidaRibeiro&color=blue" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/leonardoAlmeidaRibeiro?label=Followers&style=social" alt="GitHub followers"/>
-
-</div>
 
 ---
+## 📊 Estatísticas e Conquistas
 
 <div align="center">
-
-  <!-- Stats principais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula"/>
-
+  <a href="https://github.com/leonardoAlmeidaRibeiro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </a>
 </div>
 
----
-
 <div align="center">
-
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=dracula" height="180em"/>
-
 </div>
 
----
-
 <div align="center">
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- Trophies (diferencial forte) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardoAlmeidaRibeiro&theme=dracula&no-frame=true&row=1&column=6"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
 </div>
 
 ---
@@ -199,13 +182,13 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 ## 📫 Vamos nos conectar?
 
 <div align="center">
-  <a href="mailto:SEU-EMAIL@AQUI.com" target="_blank">
+  <a href="mailto:leonardo.a.ribeiro.21@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/leonardo-almeida-ribeiro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/SEUNUMEROHERE" target="_blank">
+  <a href="https://wa.me/61993651612" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
