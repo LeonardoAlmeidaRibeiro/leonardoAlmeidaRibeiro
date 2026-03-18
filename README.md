@@ -91,6 +91,9 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 ## 🛠️ Tecnologias & Ferramentas
 
+Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo no meu dia a dia para desenvolver soluções eficientes e escaláveis. Ao longo da minha experiência, tive a oportunidade de aprofundar meus conhecimentos nessas ferramentas, aplicando-as em diferentes projetos e desafios.
+
+
 ### 💻 Desenvolvimento & Frameworks
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
