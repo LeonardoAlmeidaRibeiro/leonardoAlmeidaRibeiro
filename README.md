@@ -158,18 +158,27 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 ## 📊 Estatísticas e Conquistas
 
 <div align="center">
+
   <a href="https://github.com/leonardoAlmeidaRibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=default" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=dracula" />
+
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+
   </a>
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=default&hide_border=true" height="180em"/>
+
+  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=dracula" height="180em"/>
+
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=github-compact"/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=dracula"/>
+
 </div>
 
 ---
