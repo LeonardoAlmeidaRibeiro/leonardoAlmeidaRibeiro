@@ -160,20 +160,20 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 
 <div align="center">
   <a href="https://github.com/leonardoAlmeidaRibeiro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoAlmeidaRibeiro&layout=compact&langs_count=7&theme=default" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoAlmeidaRibeiro&show_icons=true&theme=github&include_all_commits=true&count_private=true" />
   </a>
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=github" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=leonardoAlmeidaRibeiro&theme=default" height="180em"/>
 
 </div>
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=github"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=default"/>
 
 </div>
 
