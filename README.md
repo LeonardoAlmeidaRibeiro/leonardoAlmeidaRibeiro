@@ -9,12 +9,21 @@ Atuo como **Gestor de Projetos de TI** e **Desenvolvedor Laravel Sênior**, com 
 Sou um profissional de Tecnologia da Informação com experiência no desenvolvimento, evolução e gestão de sistemas web, participando de todas as etapas do ciclo de software — desde o levantamento de requisitos até a implantação e sustentação em produção.
 
 ---
+## 🏆 Conquistas
+
+🥇 1º lugar no Hackathon da Mútua  
+🥇 1º lugar no Hackathon do Tesouro Nacional (Equipe Code Creators)  
+🥇 1º lugar no Hackathon de Tecnologias Disruptivas para Segurança Pública – Ministério da Justiça e Segurança Pública (MJSP)  
+🥉 3º lugar no Hackathon Gravitate Health  
+🌍 Nomeação global no NASA Space Apps Challenge (maior hackathon do mundo)
+
+---
 
 ## 💼 Experiência Profissional
 
 ### 🏥 Hospital das Forças Armadas (HFA)
 
-**Analista de Sistemas | Gestor de Projetos | Laravel Sênior**
+**Analista de Sistemas PHP - Laravel | Gestor de Projetos | Laravel Sênior**
 📅 Jan/2024 - Atual
 
 * Desenvolvimento e manutenção de sistemas em **Laravel (PHP 8)** e **MySQL**
@@ -23,21 +32,10 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 * Implementação de **controle de acesso (ACL)** e criptografia
 * Desenvolvimento de **dashboards estratégicos**
 * Versionamento com **Git/GitLab (Kanban)**
-
-### 📊 Governança de TIC
-
-* Planejamento e atualização do **PDTI**
-* Aplicação da **IN01/2019 SGD/ME**
+* Governança de TIC
 * Alinhamento estratégico de TI
 * Gestão da plataforma **GLPI (TiAjudo)**
 * Coordenação de integrações entre sistemas
-
-### 🚀 Projetos em destaque
-
-* Sistema de Gestão de Pessoal
-* Integrações com sistemas hospitalares e governamentais
-* Site de eventos no padrão GOV.BR
-* Plataforma de chamados (GLPI)
 
 ---
 
@@ -77,10 +75,10 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 ---
 
 ## 🎓 Formação Acadêmica
-
+* 🎓 Pós-Graduação em **Pós-graduação em Desenvolvimento Full Stack** – Faculdade Focus (Cursando)
 * 🎓 Pós-Graduação em **Engenharia de Software** – Faculdade Focus (2025–2026)
 * 🎓 Pós-Graduação em **Arquitetura de Sistemas da Informação (TIC)** – Faculdade Focus (2025)
-* 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** – Grupo Projeção (2018–2020)
+* 🎓 Graduação em **Análise e Desenvolvimento de Sistemas** – Grupo Projeção (2018–2020)
 
 ---
 
@@ -111,19 +109,9 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 ---
 
-## 🏆 Conquistas
-
-🥇 1º lugar no Hackathon da Mútua  
-🥇 1º lugar no Hackathon do Tesouro Nacional (Equipe Code Creators)  
-🥇 1º lugar no Hackathon de Tecnologias Disruptivas para Segurança Pública – Ministério da Justiça e Segurança Pública (MJSP)  
-🥉 3º lugar no Hackathon Gravitate Health  
-🌍 Nomeação global no NASA Space Apps Challenge (maior hackathon do mundo)
-
----
-
 ## 🎯 Objetivo
 
-Desenvolver soluções tecnológicas **eficientes, seguras e escaláveis**, alinhadas aos objetivos do negócio, sempre buscando evolução contínua e melhoria de processos.
+Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre com foco em aprendizado constante. Tenho paixão por programar e gosto de compartilhar conhecimento, ajudando meus colegas e contribuindo para um ambiente de equipe mais forte e colaborativo.
 
 ---
 
