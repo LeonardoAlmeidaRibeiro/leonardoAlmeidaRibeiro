@@ -167,7 +167,7 @@ Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre c
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=graywhite"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoAlmeidaRibeiro&theme=github"/>
 
 </div>
 
