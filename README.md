@@ -1,4 +1,4 @@
-# 👨‍💻 Leonardo Almeida Ribeiro
+# 👨‍💻 Leonardo Almeida Ribeiro  | Desenvolvedor Laravel | Arquiteto de Soluções | Gestor de Projetos de TI | Vencedor de Hackathons | Integração de Sistemas (SOAP/REST) 
 
 ## 🚀 Sobre mim
 
@@ -84,18 +84,52 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 
 ## 🛠️ Tecnologias & Competências
 
-* **Back-end:** PHP, Laravel
-* **Front-end:** HTML, CSS, JavaScript, jQuery, Bootstrap
-* **Banco de Dados:** MySQL, MariaDB
-* **Integrações:** REST, SOAP
-* **Ferramentas:** Git, GitLab, Postman, VS Code
-* **Outros:**
+<p align="center">
+  <!-- Linguagens / Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
 
-  * Arquitetura de sistemas
-  * Engenharia de software
-  * Métodos ágeis (Scrum/Kanban)
-  * Modelagem UML
-  * Governança de TIC
+  <!-- Front -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40"/>
+
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+
+  <!-- Banco de Dados -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40"/>
+
+  <!-- DevOps / Infra -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40"/>
+
+  <!-- Ferramentas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+  <!-- Extras (sem devicon oficial, usando skillicons) -->
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/> <!-- API -->
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/> <!-- gestão/cloud -->
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40"/> <!-- automação -->
+
+  <!-- Texto fallback para soft skills -->
+</p>
+
+<p align="center">
+  🧩 Scrum | 📋 Kanban | 👨‍💼 Liderança | 🛠️ Suporte Técnico
+</p>
 
 ---
 
