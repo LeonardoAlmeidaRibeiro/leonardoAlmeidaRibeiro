@@ -1,4 +1,4 @@
-# 👨‍💻 Leonardo Almeida Ribeiro  | Desenvolvedor Laravel | Arquiteto de Soluções | Gestor de Projetos de TI | Vencedor de Hackathons | Integração de Sistemas (SOAP/REST) 
+# 👨‍💻 Leonardo Almeida Ribeiro 
 <br>
 <div align="left">
 
@@ -56,28 +56,6 @@ Sou um profissional de Tecnologia da Informação com experiência no desenvolvi
 * Implementação de regras de negócio
 * Testes (QA) e validações em múltiplos ambientes
 * Versionamento com Git/GitLab
-
----
-
-### 🌐 Allrede Telecom
-
-**Operador de Help Desk**
-📅 Nov/2020 - Mai/2021
-
-* Suporte técnico em conectividade
-* Diagnóstico de problemas de rede
-* Atendimento ao cliente e gestão de chamados
-
----
-
-### 📞 BrBPO
-
-**Atendente Técnico**
-📅 Abr/2014 - Jun/2020
-
-* Atendimento ao público (Ministério da Educação)
-* Análise e tratamento de demandas
-* Registro e acompanhamento de chamados
 
 ---
 
@@ -141,11 +119,11 @@ Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo
 
 ## 📌 Diferenciais
 
-* Experiência técnica + visão estratégica
-* Forte atuação em **integração de sistemas**
-* Conhecimento em **normativas e governança pública**
-* Foco em **segurança, escalabilidade e performance**
-* Vivência desde suporte até arquitetura de sistemas
+* Experiência técnica aliada à visão estratégica orientada à inovação.
+* Forte atuação em integração de sistemas e modernização de soluções.
+* Foco em segurança, escalabilidade, performance e evolução tecnológica.
+* Vivência completa no ciclo de sistemas: do suporte à arquitetura de soluções.
+* Capacidade de propor melhorias e implementar soluções tecnológicas inovadoras.
 
 ---
 
