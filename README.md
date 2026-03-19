@@ -16,6 +16,13 @@ Atuo como **Gestor de Projetos de TI** e **Desenvolvedor Laravel Sênior**, com 
 Sou um profissional de Tecnologia da Informação com experiência no desenvolvimento, evolução e gestão de sistemas web, participando de todas as etapas do ciclo de software — desde o levantamento de requisitos até a implantação e sustentação em produção.
 
 ---
+
+## 🎯 Objetivo
+
+Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre com foco em aprendizado constante. Tenho paixão por programar e gosto de compartilhar conhecimento, ajudando meus colegas e contribuindo para um ambiente de equipe mais forte e colaborativo.
+
+---
+
 ## 🏆 Conquistas
 
 🥇 1º lugar no Hackathon da Mútua  
@@ -124,12 +131,6 @@ Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo
 * Foco em segurança, escalabilidade, performance e evolução tecnológica.
 * Vivência completa no ciclo de sistemas: do suporte à arquitetura de soluções.
 * Capacidade de propor melhorias e implementar soluções tecnológicas inovadoras.
-
----
-
-## 🎯 Objetivo
-
-Desenvolver soluções tecnológicas eficientes, seguras e escaláveis, sempre com foco em aprendizado constante. Tenho paixão por programar e gosto de compartilhar conhecimento, ajudando meus colegas e contribuindo para um ambiente de equipe mais forte e colaborativo.
 
 ---
 
