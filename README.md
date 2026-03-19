@@ -98,6 +98,14 @@ Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
 </p>
 
+### 🔧 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
+</p>
+
 ### 🛠️ Gestão, Metodologias & Soft Skills
 <p align="left">
   <img src="https://img.shields.io/badge/API-REST%20%2F%20SOAP-blue?style=for-the-badge&logo=postman&logoColor=white" height="35" />
@@ -105,14 +113,6 @@ Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo
   <img src="https://img.shields.io/badge/KANBAN-Gestão-green?style=for-the-badge&logo=trello&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/LIDERANÇA-Gestão%20de%20TI-gold?style=for-the-badge" height="35" />
   <img src="https://img.shields.io/badge/SUPORTE-Help%20Desk-lightgrey?style=for-the-badge" height="35" />
-</p>
-
-### 🔧 Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </p>
 
 ---
