@@ -13,7 +13,7 @@ Desenvolvedor com experiência em **PHP, Laravel, HTML, CSS, JavaScript, jQuery,
 
 Atuo como **Gestor de Projetos de TI** e **Desenvolvedor Laravel Sênior**, com foco em arquitetura, integração de sistemas e desenvolvimento full stack.
 
-Sou um profissional de Tecnologia da Informação com experiência no desenvolvimento, evolução e gestão de sistemas web, participando de todas as etapas do ciclo de software — desde o levantamento de requisitos até a implantação e sustentação em produção.
+Sou um profissional de Tecnologia da Informação com experiência no desenvolvimento, evolução e gestão de sistemas web, participando de todas as etapas do ciclo de software desde o levantamento de requisitos até a implantação e sustentação em produção.
 
 ---
 
