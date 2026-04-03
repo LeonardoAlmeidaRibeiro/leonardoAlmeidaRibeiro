@@ -140,8 +140,8 @@ Essas são as tecnologias com as quais estou habituado a trabalhar e que utilizo
 ## 📊 Estatísticas e Conquistas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlmeidaRibeiro&show_icons=true&theme=default&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlmeidaRibeiro&layout=compact&theme=default&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlmeidaRibeiro&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlmeidaRibeiro&layout=compact"/>
 </div>
 
 <div align="center">
